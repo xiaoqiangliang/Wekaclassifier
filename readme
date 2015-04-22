@@ -1,0 +1,6 @@
+
+通过Segmenter.java将训练文件集预处理（分词）
+
+TrainAndTest.java
+完成训练和测试 训练后的文件已.modle格式的文件存储
+输入是string类型。
